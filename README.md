@@ -1,4 +1,5 @@
 **Carnegie Mellon University - Tepper School of Business**
+
 *Nanyang Computational Finance Program 2025*
 
 - Towards the fulfillment of the Team Project component of the `Advanced Risk Management` module 
