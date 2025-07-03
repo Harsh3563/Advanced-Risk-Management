@@ -8,11 +8,11 @@
 
 - Project Objective: To develop and implement Pairs Trading Strategies on Real-Time Price Data, addressing General Market Risk across three positions:
   
-		     	Position A: Focuses on using Cointegration, Econometrics, and the Kalman Filter Algorithm.
+		     	Position A - Focuses on using Cointegration, Econometrics, and the Kalman Filter Algorithm.
   
-		     	Position B: Concentrates on utilizing LSTM Recurrent Neural Networks.
+		     	Position B - Concentrates on utilizing LSTM Recurrent Neural Networks.
   
-		     	Position C: Emphasizes the use of Transformer Neural Networks.
+		     	Position C - Emphasizes the use of Transformer Neural Networks.
   
 - Strategies executed on FTS Real Time System - an advanced Cloud-based Stock Trading Simulation platform.
 
