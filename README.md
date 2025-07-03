@@ -14,7 +14,7 @@
   
 		     	Position C: Emphasizes the use of Transformer Neural Networks.
   
-		     Strategies executed on FTS Real Time System - an advanced Cloud-based Stock Trading Simulation platform.
+- Strategies executed on FTS Real Time System - an advanced Cloud-based Stock Trading Simulation platform.
 
 - Learning Outcomes: a) Gained practical experience with Algorithmic Trading, Statistical Arbitrage, as well as insights into the strengths and limitations of each algorithm. 
 	             b) Learned how to leverage AI for developing customized risk management solutions.
